@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the URL below with your actual hosted photo (e.g., upload to your GitHub repo and use the raw link) -->
-<img src="https://raw.githubusercontent.com/nikhartale/nikhartale/main/profile.jpg" alt="Nikhar Tale" width="120" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/nikhar-tale/nikhar-tale/main/profile.jpg" alt="Nikhar Tale" width="120" style="border-radius: 50%;" />
 
 # 👋 Hi, I'm Nikhar Tale
 
