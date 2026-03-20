@@ -3,21 +3,20 @@
 <img src="https://raw.githubusercontent.com/nikhar-tale/nikhar-tale/main/profile.jpg" alt="Nikhar Tale" width="120" style="border-radius: 50%;" />
 
 <h1>👋 Hi, I'm Nikhar Tale</h1>
-
 <h3>Flutter & AI Mobile Engineer · 4+ Years · Indore, India</h3>
 
 <p>I build <strong>production-grade, AI-powered Flutter apps</strong> — from Clean Architecture foundations<br/>
 to GPT-4o integrations and serverless AWS backends.</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=500&lines=Flutter+%26+AI+Mobile+Engineer;Clean+Architecture+Advocate;GPT-4o+%2B+TFLite+Pipeline+Builder;Play+Store+%26+App+Store+Shipped)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=500&lines=Flutter+%26+AI+Mobile+Engineer;Clean+Architecture+Advocate;GPT-4o+%2B+TFLite+Pipeline+Builder;Play+Store+%26+App+Store+Shipped" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20Flutter%20Roles-brightgreen?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=nikhar-tale&color=blue&style=flat-square)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nikhar--tale.github.io-blue?style=flat-square&logo=github)](https://nikhar-tale.github.io/nikhar-tale/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhar--tale-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikhar-tale-3359b41a2)
-[![Email](https://img.shields.io/badge/Email-nikhartale12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhartale12@gmail.com)
+<img src="https://img.shields.io/badge/Open%20to%20Work-Senior%20Flutter%20Roles-brightgreen?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=nikhar-tale&color=blue&style=flat-square" />
+<a href="https://nikhar-tale.github.io/nikhar-tale/"><img src="https://img.shields.io/badge/Portfolio-nikhar--tale.github.io-blue?style=flat-square&logo=github" /></a>
+<a href="https://linkedin.com/in/nikhar-tale-3359b41a2"><img src="https://img.shields.io/badge/LinkedIn-nikhar--tale-0077B5?style=flat-square&logo=linkedin" /></a>
+<a href="mailto:nikhartale12@gmail.com"><img src="https://img.shields.io/badge/Email-nikhartale12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
