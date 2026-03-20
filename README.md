@@ -199,13 +199,19 @@ AI-powered app to scan, evaluate, and auto-grade student worksheets.
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nikhar--tale.github.io-blue?style=for-the-badge)](https://nikhar-tale.github.io/nikhar-tale/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nikhar-tale-3359b41a2)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhartale12@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://nikhar-tale.github.io/nikhar-tale/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-nikhar--tale.github.io-blue?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/nikhar-tale-3359b41a2">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:nikhartale12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
