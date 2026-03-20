@@ -1,16 +1,20 @@
 <div align="center">
 
-<!-- Replace the URL below with your actual hosted photo (e.g., upload to your GitHub repo and use the raw link) -->
 <img src="https://raw.githubusercontent.com/nikhar-tale/nikhar-tale/main/profile.jpg" alt="Nikhar Tale" width="120" style="border-radius: 50%;" />
 
-# 👋 Hi, I'm Nikhar Tale
+<h1>👋 Hi, I'm Nikhar Tale</h1>
 
-### Flutter & AI Mobile Engineer · 3+ Years · Indore, India
+<h3>Flutter & AI Mobile Engineer · 4+ Years · Indore, India</h3>
 
-**I build production-grade, AI-powered Flutter apps** — from Clean Architecture foundations  
-to GPT-4o integrations and serverless AWS backends.
+<p>I build <strong>production-grade, AI-powered Flutter apps</strong> — from Clean Architecture foundations<br/>
+to GPT-4o integrations and serverless AWS backends.</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=500&lines=Flutter+%26+AI+Mobile+Engineer;Clean+Architecture+Advocate;GPT-4o+%2B+TFLite+Pipeline+Builder;Play+Store+%26+App+Store+Shipped)](https://git.io/typing-svg)
+
+<br/>
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Senior%20Flutter%20Roles-brightgreen?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nikhar-tale&color=blue&style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nikhar--tale.github.io-blue?style=flat-square&logo=github)](https://nikhar-tale.github.io/nikhar-tale/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nikhar--tale-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/nikhar-tale-3359b41a2)
 [![Email](https://img.shields.io/badge/Email-nikhartale12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nikhartale12@gmail.com)
@@ -21,19 +25,16 @@ to GPT-4o integrations and serverless AWS backends.
 
 ## 🏆 Impact at a Glance
 
-<div align="center">
-
 | 📉 70% | ⚡ 20% | 🚀 30% | 📈 25% |
 |:---:|:---:|:---:|:---:|
 | Reduction in manual grading effort | Faster app load time | Faster data retrieval | Increase in app usability |
-
-</div>
 
 ---
 
 ## 🔍 About Me
 
 - 🔭 **Currently:** Building AI-powered mobile tools @ **Zehntech Technologies**
+- 🔨 **Currently Building:** Offline-first school platform with GPT-4o + TFLite pipeline
 - 👀 **Open to:** Senior Flutter / Mobile Engineer roles
 - 💪 **Core Strengths:** Flutter · BLoC · Clean Architecture · REST APIs · Firebase · FastAPI
 - ☁️ **Backend:** Python microservices · AWS Lambda · S3 · API Gateway · CI/CD
@@ -46,11 +47,19 @@ to GPT-4o integrations and serverless AWS backends.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhar-tale&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhar-tale&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=nikhar-tale&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhar-tale&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhar-tale&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhar-tale&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -61,6 +70,7 @@ to GPT-4o integrations and serverless AWS backends.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **State Management**
 
@@ -114,13 +124,15 @@ lib/
 ### 🏫 School Management Platform
 > Flutter · BLoC · Clean Architecture · Firebase · AWS Lambda · GPT-4o · TFLite · Google Workspace APIs
 
-End-to-end school management system delivered for multiple educational institutions — covering academics, attendance, assignments, and communication.
+End-to-end school management system shipped for multiple educational institutions — covering academics, attendance, assignments, and communication used by real students and teachers daily.
 
 - 🤖 **AI Grading Pipeline:** Students submit worksheet photos → TFLite filters image quality on-device → GPT-4o evaluates answers via Python microservice on AWS Lambda
 - 📉 **70% reduction** in manual grading effort · **20% lower** AI inference costs via on-device pre-filtering
 - 🔗 Integrated **6+ Google Workspace APIs** (Classroom, Drive, Calendar, Slides) — enabling full school workflow automation
 - 📶 Offline-first architecture with **Hive + SQLite** — **30% faster** data retrieval, core features work without internet
 - 📈 Achieved **15% increase** in user engagement and **20% faster** app load time
+
+> 🔒 *Source code is proprietary — architecture and implementation details available for discussion during interviews*
 
 ---
 
@@ -131,7 +143,9 @@ Full-featured billing solution for restaurants, cafes, and hotels — running on
 
 - 🖨️ Thermal printer integration with KOT (Kitchen Order Tickets), table management, and inventory tracking
 - 🔄 Real-time Firebase sync across devices with **offline-first billing** and automatic reconciliation on reconnect
-- 📊 Staff management, reports, and multi-device support from a single codebase
+- 📊 Staff management, detailed reports, and multi-device support from a single Flutter codebase
+
+> 🔒 *Source code is proprietary — available for architecture discussion during interviews*
 
 ---
 
@@ -149,7 +163,7 @@ Cross-platform video streaming app with social authentication and real-time data
 ### 📱 Smart Worksheet Evaluation System *(Open Source)*
 > Flutter · FastAPI · AWS Lambda · TFLite · GPT-4o · Riverpod
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/nikhartale/smart-worksheet-evaluation)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/nikhar-tale/smart-worksheet-evaluation)
 
 AI-powered app to scan, evaluate, and auto-grade student worksheets.
 
@@ -164,12 +178,22 @@ AI-powered app to scan, evaluate, and auto-grade student worksheets.
 
 **Software Engineer** · Zehntech Technologies · *May 2022 – Present*
 
-- Architected Flutter mobile apps for educational institutions using Clean Architecture + BLoC
-- Integrated 6+ Google Workspace APIs improving app usability by **25%**
-- Mentored junior developers through code reviews and Flutter best practices
+- Architected Flutter mobile apps for educational institutions using Clean Architecture + BLoC — **20% faster load time**, **15% increase** in user engagement
+- Built AI grading pipeline (TFLite + GPT-4o + AWS Lambda) — **70% reduction** in manual effort, **20% lower** AI costs
+- Integrated **6+ Google Workspace APIs** improving app usability by **25%** and enabling full school workflow automation
+- Replaced API-dependent loading with Hive + SQLite offline-first storage — **30% faster** data retrieval
+- Mentored junior developers through code reviews, clean architecture guidance, and Flutter best practices
 - Delivered apps to both **Google Play Store** and **Apple App Store** with minimal downtime
 
-> 🏅 *Employee of the Month — for outstanding mobile app delivery and high-impact project completion*
+> 🏅 *Employee of the Month — for outstanding mobile app delivery and high-impact project completion within deadlines*
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Flutter performance profiling & DevTools
+- LangChain for mobile AI pipelines
+- AWS Solutions Architect concepts
 
 ---
 
@@ -187,6 +211,6 @@ AI-powered app to scan, evaluate, and auto-grade student worksheets.
 
 <div align="center">
 
-💬 *"Clean code always looks like it was written by someone who cares." — Robert C. Martin*
+💬 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
 </div>
